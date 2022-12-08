@@ -48,9 +48,21 @@ image segmentation对应的就是抠图功能。
 
 ### image composition
 
-对应的功能是图片合成。
+图片合成功能，让合成图片更加自然，视觉效果更好。
 
 
+### upscaling
 
+图片高清服务，能将一张图片放大至2、3、4倍。
 
+### face restore
 
+aigc生成的人脸非常难看，使用这个face restore，能将一些缺陷弥补。
+
+### 2D to 3D
+
+从2D的图像，生成3D物品模型。
+
+### shadow maker
+
+为给定的物品，生成阴影
